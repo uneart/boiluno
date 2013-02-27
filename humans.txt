@@ -1,15 +1,28 @@
-# humanstxt.org/
-# The humans responsible & technology colophon
+/* ------------------------------------------------------------ */
+/* The humans responsible & technology colophon (humanstxt.org) */
+/* ------------------------------------------------------------ */
 
-# TEAM
 
-    <name> -- <role> -- <twitter>
+/* --- TEAM --------------------------------------------------- */
 
-# THANKS
+  Design & Development: <yourname>
+    Twitter: <twitter>
+    Site: <url>
+    Location: <location>
 
-    <name>
 
-# TECHNOLOGY COLOPHON
+/* --- THANKS ------------------------------------------------- */
 
-    HTML5, CSS3
-    Normalize.css, jQuery, Modernizr
+  Paul Irish (HTML5 Boilerplate): http://html5boilerplate.com
+  Christopher M. Eppstein (compass): http://compass-style.org
+
+
+/* --- SITE --------------------------------------------------- */
+
+  last update: <last update>
+  Standards: HTML5, CSS3
+  Language: English
+  Doctype: HTML5
+  Components: Modernizr, jQuery, Normalize.css, Compass
+  Software: Sublime Text, compass.app
+  CMS: <cms name>
